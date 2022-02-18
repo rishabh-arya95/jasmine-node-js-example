@@ -11,4 +11,4 @@ preRun:
     - npm ci    
 postRun:
   command: 
-    - echo 'Done Testing'
+    - echo 'Done'
